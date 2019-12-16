@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="dear-korean-drama-lovers.html"}
+if(x=="1"){xxx="dear-korean-drama-lovers-turns-out.html"}
 if(x=="2"){xxx="11-best-korean-movie-popular-and-you.html"}
 if(x=="3"){xxx="fans-of-korean-drama-are-spoiled-with.html"}
 if(x=="4"){xxx="the-best-korean-drama-recommendations.html"}a_to_ve[i].href="https://bitcoinmerchant.carakunulis.com/2000/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
